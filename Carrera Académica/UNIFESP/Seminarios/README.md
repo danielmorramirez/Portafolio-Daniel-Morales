@@ -12,7 +12,7 @@ puntos de equilíbrio de un problema parabólico no lineal con términos concent
 parámetro <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> tiende a cero. La parte superior de la frontera presenta un comportamiento altamente oscilatorio..."*.
 
 Más detalles se pueden encontrar en el árticulo anexo. Como muestra de la aplicación de los conocimientos adquiridos se realizó un programa en Python, que actua
-como solver de este problema, titulado *solvern.py*.
+como solver de un problema simplificado, titulado *solvern.py*.
 
 ### Seminario II: Presentación de trabajo obtenido en el pregrado del autor
 
