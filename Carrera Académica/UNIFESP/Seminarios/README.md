@@ -21,4 +21,4 @@ pequeño artículo escrito como una forma de revisar un resultado debido al prof
 que fue publicado, tanto el problema como su solución, en la American Mathematical Monthly entre los años 1956 y 1957. Se presentan en el mismo detalles de la 
 demostración no incluidos por el autor.
 
-Más detalles en el articulo anexo.
+Más detalles en el articulo anexo (BAMV_XXV_Morales_Quintana.pdf).
