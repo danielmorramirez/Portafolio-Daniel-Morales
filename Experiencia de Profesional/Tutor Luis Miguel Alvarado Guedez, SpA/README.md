@@ -17,6 +17,7 @@ de esta crucial etapa.
 
 - Sistema automatizado, con base en productos de Google, para generación de distintos documentos dirigidos a la Coordinación General y Dirección.
 - Dashboards de Marketing con base en taggeamiento de clientes utilizando Google Analytics y Google Tag Manager.
+- Rutinas SQL para Contabilidad, Agenda y Marketing.
 - Campañas de Marketing utilizando Google y Facebook Ads.
 - Dictar cursos formativos y formaciones académicas en el área de las Matemáticas.
 
