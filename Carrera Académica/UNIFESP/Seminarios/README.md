@@ -11,7 +11,8 @@ in the boundary,** escrito por los profesores *Aragão, Perêira, Perêira* en e
 puntos de equilíbrio de un problema parabólico no lineal con términos concentrados en una vecindad de la frontera y que se contrae a la frontera cuando un
 parámetro <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> tiende a cero. La parte superior de la frontera presenta un comportamiento altamente oscilatorio..."*.
 
-Más detalles se pueden encontrar en el árticulo anexo.
+Más detalles se pueden encontrar en el árticulo anexo. Como muestra de la aplicación de los conocimientos adquiridos se realizó un programa en Python, que actua
+como solver de este problema, titulado *solvern.py*.
 
 ### Seminario II: Presentación de trabajo obtenido en el pregrado del autor
 
