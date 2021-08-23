@@ -3,9 +3,9 @@
 
 function afterFormSubmit(e) {
   
-  const info = e.namedValues;
+  const info = e.namedValues; # Rutina con Google Forms
   const pdfFile = createPDF(info);
-  const entryRow = e.range.getRow();
+  const entryRow = e.range.getRow(); # Rutina con Google Forms
   const ws = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Hoja de Sheets");
   ws.getRange(entryRow, 12).setValue(pdfFile.getUrl());
   ws.getRange(entryRow, 13).setValue(pdfFile.getName());
