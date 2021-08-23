@@ -1,4 +1,4 @@
-# Esta plantilla esta realizada en Google App Script
+# Esta plantilla esta realizada en Google Apps Script basado en Java
 
 
 function afterFormSubmit(e) {
