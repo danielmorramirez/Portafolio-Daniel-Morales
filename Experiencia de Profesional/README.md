@@ -10,7 +10,11 @@ Teacher assistant (Sep. 2012 - Dec. 2018): *Mathematics Courses for Science and 
 
 Instructor Professor (E.D) (Jan. 2019 - Jun. 2019): *Mathematics Courses for Science and Engineering*  
 
-Guest Professor (Jan. 2020-): *Mathematics Courses for Science and Engineering* 
+Guest Professor (Jan. 2020-): *Mathematics Courses for Science and Engineering*
+
+- Universidade Federal de São Paulo
+
+Teacher assistant (Aug. 2019 - Aug. 2021): *Mathematics Courses for Science and Engineering*
 
 ### Non-Academic Work
 
