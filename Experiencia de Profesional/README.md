@@ -44,12 +44,12 @@ Teacher assistant (Aug. 2019 - Aug. 2021): *Mathematics Courses for Science and 
 
 Math teacher (Jan. 2020- )
 
-Junior programmer (Sep. 2020 - )
+Junior programmer (Sep. 2020 - ): *Perform VBA routines in Excel and Google Cloud with Google Apps Script* 
 
-Junior Data Analyst (Dec. 2020 - ): *Creation of Dashboards and ETL routines*
+Junior Data Analyst (Dec. 2020 - ): *Creation of Dashboards, Develop and carry out ETL routines, Customer Mapping, Use of Google Analytics and Google Tag Mannager to adjust Marketing campaigns.*
 
 
 - Institutional Observatory ICT-UNIFESP
 
-Data Analyst (Jun. 2020 - Jun 2021): Creation of Dashboards and ETL routines
+Data Analyst (Jul. 2020 - Jul 2021): Creation of Dashboards and ETL routines
 
