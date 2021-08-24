@@ -12,7 +12,7 @@ Currently, I have knowledge of ETL routines for creating interactive Dashboards,
 
 I also have knowledge of programming languages such as Python, R, Matlab, Mathematica. In particular, I have a strong affinity with R and Python to develop different interactive reports on data as well as I have an intermediate level in Power BI for the creation of interactive reports.
 
-I have extensive experience with Microsoft Office packages with an advanced command of Excel (Macros Creation and VBA) as well as extensive familiarity with Google work packages such as Sheets, Classroom and clearly Data Studio.
+I have extensive experience with Microsoft Office packages with an advanced command of Excel (Macro's Creation and VBA) as well as extensive familiarity with Google work packages such as Sheets, Classroom and clearly Data Studio.
 
 If you want to contact me, you can do it through email *danielmorramirez@gmail.com* or through my phone number +5512996761558.
 
