@@ -1,0 +1,45 @@
+\documentclass[12pt ,spanish]{article}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+
+
+\title{Ejercicio 1. Capítulo 1. Sección: 10. Texto: J. R. Munkres}
+\author{13-11522}
+\date{Génesis Zamora}
+
+\begin{document}
+
+\maketitle
+
+\section{Demuestre que todo conjunto bien ordenado tiene la propiedad del supremo}
+
+\subsection{Solución}
+
+Sea $A$ un conjunto bien ordenado. Sea $A_{0}\subset{A}$ un subconjunto no vacío con una cota superior $b$.
+Luego, sea $B$ el conjunto que contiene a las cotas superiores de $A_0$, entonces $B$ es no vacío. Ahora, como sabemos que $A$ está bien ordenado, $A_0$ tambien lo está, y por lo tanto $B$ tambien lo está. Asi, por el Principio de Buena Ordenación, $B$ posee un elemento mínimo.
+
+\medskip
+
+Sea $d$ el mínimo elemento de $B$.
+Sea $x\in{A}$, si $d$ es el sucesor de $x$, $x$ es el máximo de $A$.
+Si $d$ no es el sucesor de $x$, $d$ es el supremo de $A$ pues sino, existe $x_{0}\in{B}$ tal que $x<x_{0}<d$, lo cual es absurdo, pues $d$ es el menor elemento de $B$.
+
+\subsubsection{Definiciones}
+
+\begin{itemize}
+    \item Propiedad del Supremo: Un conjunto ordenado  $A$ se dice que tiene la propiedad del supremo si todo subconjunto no vacío $A_{0}$ de $A$ que esté acotado superiormente tiene supremo. Análogamente, se dice que el conjunto $A$ tiene la propiedad del ínfimo si todo subconjunto no vacío $A_{0}$ de $A$ que esté acotado inferíormente tiene ínfimo.
+    \item Infimo: Si el conjunto de todas las cotas inferiores de $A_{0}$ tiene un máximo, ese elemento se denomina extremo inferior o ínfimo de $A_{0}$.
+    \item Minimo elemento:  Decimos que $a$ es el mínimo de $A_{0}$ si $a\in{A_{0}}$ y si $a\leq{x}$ para todo $x\in{A_{0}}$.
+    \item Conjunto Bien Ordenado: Un conjunto $A$ con una relación de orden $<$ se dice que está Bien Ordenado si todo subconjunto no vacio de $A$ tiene un mínimo.
+    \item Conjunto Numerable: Un conjunto es numerable si es ya finito, o ya infinito-numerable.
+    \item Teorema 10.3: Si $A$ es un subcojunto numerable de $S_{\alpha }$, entonces $A$ tiene una cota superior en$S_{\alpha }$.
+\end{itemize}
+
+
+\end{document}
