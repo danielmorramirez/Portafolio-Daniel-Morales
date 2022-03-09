@@ -48,6 +48,16 @@ Junior programmer (Sep. 2020 - ): *Perform VBA routines in Excel and Google Clou
 
 Junior Data Analyst (Dec. 2020 - ): *Creation of Dashboards, Develop and carry out ETL routines, Customer Mapping, Use of Google Analytics and Google Tag Mannager to adjust Marketing campaigns.*
 
+- MATH Marketing (MATH-MKT)
+
+Jr. Midia Marketing Research (Oct. 2021 - )
+
+Mathematical Model's Consultant (Oct. 2021 - ): *Verification and final touches on an Atribution Channel Markov Model for BV-Sites*
+
+Power BI's Dashboard Creator (Dec. 2021 - ): *Creation of Dashboards on Power BI for BV-CRM* 
+
+Data Model Creator (Jan. 2022 - ): *Creation of a LastClick Atribution Model for Meu Carro Novo.*
+
 
 - Institutional Observatory ICT-UNIFESP
 
